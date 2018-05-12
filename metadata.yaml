@@ -1,0 +1,36 @@
+_repo: The-White-Mice_27232
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gibbs, George
+    alias: Gibbs, George Fort
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '4037'
+    url: http://www.gutenberg.org/2009/agents/4037
+    wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, Richard Harding
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '181'
+    url: http://www.gutenberg.org/2009/agents/181
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
+description: ''
+gutenberg_issued: '2008-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Fiction'
+- !lcc 'PS'
+title: The White Mice
+url: http://www.gutenberg.org/ebooks/27232
